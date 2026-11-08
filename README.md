@@ -5,7 +5,7 @@ Runs two World of Warcraft clients as borderless windows: one large main window 
 ## Requirements
 
 - Windows 10/11, [AutoHotkey v2](https://www.autohotkey.com/)
-- WoW display mode: **Windowed** (not fullscreen / windowed fullscreen)
+- WoW display mode: **Windowed** (windowed fullscreen also works)
 - Edit the `CONFIG` block: `WowPath`, main and alt position/size
 
 ## Principles
