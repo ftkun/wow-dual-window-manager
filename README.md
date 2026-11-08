@@ -49,3 +49,8 @@ Ctrl / Win below refer to the author's swapped layout (physical LWin = Ctrl, phy
 | Info | Debug | Ctrl + Alt + F10 |
 | Info | Position / size check | Alt + F11 |
 | Info | Auto re-apply layout on/off | Alt + F12 |
+
+## Contributors
+
+- [ftkun](https://github.com/ftkun): author, design, testing
+- Claude (Anthropic): code, review, testing
