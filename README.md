@@ -1,6 +1,6 @@
 # WoW Dual Window Manager (AutoHotkey v2)
 
-Runs two World of Warcraft clients as borderless windows: one large main window and one alt window, either in a corner of the main screen or on another screen. Swap, move, and resize them with hotkeys.
+Runs two World of Warcraft clients as borderless windows: main window and one alt window, either in a corner of the main screen or on another screen. Swap, move, and resize them with hotkeys.
 
 ## Requirements
 
@@ -53,4 +53,5 @@ Ctrl / Win below refer to the author's swapped layout (physical LWin = Ctrl, phy
 ## Contributors
 
 - [ftkun](https://github.com/ftkun): author, design, testing
-- Claude (Anthropic): code, review, testing
+- Claude (Anthropic): code, review, testing     
+Co-authored-by: Claude <noreply@anthropic.com>
